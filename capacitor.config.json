@@ -1,0 +1,16 @@
+{
+  "appId": "com.example.app",
+  "appName": "ReproductionE2EAndroid10",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    },
+    "Keyboard": {
+      "resizeOnFullScreen": false
+    },
+    "EdgeToEdge": {
+      "backgroundColor": "#ff0000"
+    }
+  }
+}
